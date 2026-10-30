@@ -1,0 +1,12 @@
+{
+  "name": "Gideons River",
+  "short_name": "Gideons River",
+  "description": "Post-trade financial market infrastructure advisory and principal investment across the US–Nigeria corridor.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F2027",
+  "theme_color": "#1B3A4B",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

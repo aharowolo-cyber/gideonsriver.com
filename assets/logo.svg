@@ -1,0 +1,10 @@
+<svg width="250" height="48" viewBox="0 0 250 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gideons River">
+  <!-- Seal: gold ring & serif G (for dark backgrounds) -->
+  <g fill="none" stroke="#C9A84C">
+    <circle cx="24" cy="24" r="21" stroke-width="1"/>
+    <circle cx="24" cy="24" r="19.4" stroke-width="0.5" opacity="0.5"/>
+  </g>
+  <text x="24" y="34" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-weight="500" font-size="30" fill="#C9A84C">G</text>
+  <!-- Wordmark (white for dark backgrounds) -->
+  <text x="60" y="31" font-family="'Playfair Display', Georgia, serif" font-weight="600" font-size="18" letter-spacing="2.5" fill="#FFFFFF">GIDEONS RIVER</text>
+</svg>

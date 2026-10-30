@@ -1,0 +1,6 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gideons River">
+  <circle cx="24" cy="24" r="23" fill="#0F2027"/>
+  <circle cx="24" cy="24" r="20" fill="none" stroke="#C9A84C" stroke-width="0.6" opacity="0.55"/>
+  <circle cx="24" cy="24" r="18.4" fill="none" stroke="#C9A84C" stroke-width="0.3" opacity="0.32"/>
+  <text x="24" y="34" text-anchor="middle" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-weight="500" font-size="30" fill="#C9A84C">G</text>
+</svg>

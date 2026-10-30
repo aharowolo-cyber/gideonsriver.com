@@ -1,0 +1,23 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gideons River">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1B3A4B"/>
+      <stop offset="0.7" stop-color="#0F2027"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g fill="none" stroke="#2E5A6E" stroke-width="1.4" opacity="0.55">
+    <path d="M-50,210 C250,150 500,290 760,220 S1150,150 1300,250"/>
+    <path d="M-50,320 C250,260 500,400 760,330 S1150,260 1300,360"/>
+    <path d="M-50,430 C250,370 500,510 760,440 S1150,370 1300,470"/>
+  </g>
+  <!-- Seal -->
+  <g transform="translate(600,228)">
+    <circle cx="0" cy="0" r="92" fill="none" stroke="#C9A84C" stroke-width="2.4"/>
+    <circle cx="0" cy="0" r="85" fill="none" stroke="#C9A84C" stroke-width="1" opacity="0.5"/>
+    <text x="0" y="46" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-weight="500" font-size="130" fill="#C9A84C">G</text>
+  </g>
+  <text x="600" y="430" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-weight="600" font-size="76" letter-spacing="10" fill="#FFFFFF">GIDEONS RIVER</text>
+  <text x="600" y="490" text-anchor="middle" font-family="'DM Sans', Arial, sans-serif" font-weight="400" font-size="27" letter-spacing="3" fill="#C9A84C">Post-Trade Financial Market Infrastructure</text>
+  <text x="600" y="532" text-anchor="middle" font-family="'DM Sans', Arial, sans-serif" font-weight="400" font-size="22" letter-spacing="4" fill="#9FB2BC">ADVISORY &#183; MANAGEMENT CONSULTING &#183; PRINCIPAL INVESTMENTS</text>
+</svg>
